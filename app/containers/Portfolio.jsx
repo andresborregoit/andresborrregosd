@@ -6,7 +6,6 @@ import { Lexend_Zetta } from 'next/font/google'
 import Image from 'next/image'
 import compu from '../statics/images/compu.svg'
 import Header from '../components/Header'
-import yo from '../statics/images/fotopersonal.jpg'
 const LexendD = Lexend_Deca({subsets:["latin"]})
 const LexendZ = Lexend_Zetta({ subsets: ["latin"] });
 import orizq from '../statics/images/ornaizq.svg' 
