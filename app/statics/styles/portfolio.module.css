@@ -1,0 +1,3204 @@
+.containerHero{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+
+}
+.textoHero{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.compuOrnamento{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.containertextohero{
+    padding-left: 75px;
+}
+
+.containerTotalPortfolio{
+    width: 100%;
+    height: 1485px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tuti{
+    background-image: url('../images/ngsvg.svg');
+}
+
+.miportfolio{
+    font-size: 90px;
+}
+
+.divPortfolio{
+    padding-top: 200px;
+}
+
+.divBtn{
+    width: 100%;
+    height: 365px;
+    position: relative;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.btnPortfolio{
+    width: 215px;
+    height: 75px;
+    background-color: #003288;
+    border-radius: 20px;
+}
+
+.btnp{
+    font-size: 30px;
+}
+
+.divOrnamento{
+    width: 100%;
+    height: 365px;
+    position: relative;
+    display: flex;
+    z-index: 5;
+    bottom: 245px;
+}
+
+.ornamentoIzq{
+    width: 50%;
+    height: 365px;
+    display: flex;
+    justify-content: flex-end;
+}
+.ornamentoDer{
+    width: 50%;
+    height: 365px;
+    display: flex;
+    justify-content: flex-start;
+}
+.containerTestimonios{
+    width: 80%;
+    height: 1000px;
+}
+
+.testimoniosDiv{
+    width: 100%;
+    height: 300px;
+    background-color: #5fd4ff50;
+    border-radius: 50px;
+    display: flex;
+    gap: 20px;
+    }
+
+.testimoniosTexto{
+    font-size: 50px
+}
+
+.testimonios{
+    width: 400px !important;
+    height: 240px !important;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.603);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-image: url('../images/fondostarsvg.svg');
+    gap: 10px !important;
+}
+
+#card2{
+    background-color: #5fd4ff50;
+    background-image: url('../images/fondo2starsvg.svg') !important; 
+
+}
+
+.nombre{
+    
+
+    
+}
+
+.nombrep{
+    font-size: 30px;
+    padding-bottom: 8px;
+}
+
+.stars{
+padding-bottom: 10px;
+}
+
+.resenia{
+
+}
+
+.reseniaP{
+    font-size: 18px;
+}
+
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+
+
+@media only screen and (max-width: 1940px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 90px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 215px;
+        height: 75px;
+        background-color: #003288;
+        border-radius: 20px;
+    }
+    
+    .btnp{
+        font-size: 30px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }.containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 90px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 215px;
+        height: 75px;
+        background-color: #003288;
+        border-radius: 20px;
+    }
+    
+    .btnp{
+        font-size: 30px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1740px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 90px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 215px;
+        height: 75px;
+        background-color: #003288;
+        border-radius: 20px;
+    }
+    
+    .btnp{
+        font-size: 30px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }
+    }
+
+/* Estilos para pantallas medianas de escritorio */
+@media only screen and (max-width: 1440px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 90px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 200px;
+        height: 70px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 26px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }
+   
+}
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1280px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 80px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 180px;
+        height: 60px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 24px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }
+}
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1100px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 70px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 170px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 400px !important;
+        height: 240px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 18px;
+    }
+}
+
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 1024px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 65px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 348px !important;
+        height: 220px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 28px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 120px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 16px;
+    }
+}
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 900px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 55px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 348px !important;
+        height: 220px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 28px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 120px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 868px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 45px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 50px
+    }
+    
+    .testimonios{
+        width: 348px !important;
+        height: 220px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 28px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 120px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 45px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 46px
+    }
+    
+    .testimonios{
+        width: 348px !important;
+        height: 220px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 28px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 120px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 40px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 44px
+    }
+    
+    .testimonios{
+        width: 330px !important;
+        height: 200px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 26px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 35px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 42px
+    }
+    
+    .testimonios{
+        width: 330px !important;
+        height: 200px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 26px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 35px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 40px
+    }
+    
+    .testimonios{
+        width: 330px !important;
+        height: 200px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 26px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 14px;
+    }
+
+}@media only screen and (max-width: 520px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 35px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 38px
+    }
+    
+    .testimonios{
+        width: 330px !important;
+        height: 200px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 26px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 38px
+    }
+    
+    .testimonios{
+        width: 310px !important;
+        height: 190px !important;
+        border-radius: 50px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 24px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 36px
+    }
+    
+    .testimonios{
+        width: 270px !important;
+        height: 185px !important;
+        border-radius: 40px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 24px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 26px
+    }
+    
+    .testimonios{
+        width: 270px !important;
+        height: 185px !important;
+        border-radius: 40px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 24px;
+        padding-bottom: 8px;
+    }
+    
+    .stars{
+    padding-bottom: 10px;
+    }
+    .starwi{
+        width: 100px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 335px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 24px
+    }
+    
+    .testimonios{
+        width: 230px !important;
+        height: 170px !important;
+        border-radius: 35px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 22px;
+        padding-bottom: 0px;
+    }
+    
+    .stars{
+    padding-bottom: 5px;
+    }
+    .starwi{
+        width: 90px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 11px;
+    }
+}
+
+@media only screen and (max-width: 285px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 24px
+    }
+    
+    .testimonios{
+        width: 190px !important;
+        height: 170px !important;
+        border-radius: 35px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 21px;
+        padding-bottom: 0px;
+    }
+    
+    .stars{
+    padding-bottom: 5px;
+    }
+    .starwi{
+        width: 80px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 250px) {
+    .containerHero{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    
+    }
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    
+    .containerTotalPortfolio{
+        width: 100%;
+        height: 1485px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tuti{
+        background-image: url('../images/ngsvg.svg');
+    }
+    
+    .miportfolio{
+        font-size: 30px;
+    }
+    
+    .divPortfolio{
+        padding-top: 200px;
+    }
+    
+    .divBtn{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .btnPortfolio{
+        width: 165px;
+        height: 55px;
+        background-color: #003288;
+        border-radius: 20px;
+        display: flex  ;    
+        justify-content: center;
+        align-items: center;
+        
+    }
+    
+    .btnp{
+        font-size: 22px;
+    }
+    
+    .divOrnamento{
+        width: 100%;
+        height: 365px;
+        position: relative;
+        display: flex;
+        z-index: 5;
+        bottom: 245px;
+    }
+    
+    .ornamentoIzq{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .ornamentoDer{
+        width: 50%;
+        height: 365px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .containerTestimonios{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    .testimoniosDiv{
+        width: 100%;
+        height: 300px;
+        background-color: #5fd4ff50;
+        border-radius: 50px;
+        display: flex;
+        gap: 20px;
+        }
+    
+    .testimoniosTexto{
+        font-size: 22px
+    }
+    
+    .testimonios{
+        width: 165px !important;
+        height: 160px !important;
+        border-radius: 35px;
+        background-color: rgba(0, 0, 0, 0.603);
+        padding: 18px;
+        display: flex;
+        flex-direction: column;
+        background-image: url('../images/fondostarsvg.svg');
+        gap: 10px !important;
+    }
+    
+    #card2{
+        background-color: #5fd4ff50;
+        background-image: url('../images/fondo2starsvg.svg') !important; 
+    
+    }
+    
+    .nombre{
+        
+    
+        
+    }
+    
+    .nombrep{
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+    
+    .stars{
+    padding-bottom: 5px;
+    }
+    .starwi{
+        width: 70px;
+    }
+    
+    .resenia{
+    
+    }
+    
+    .reseniaP{
+        font-size: 9px;
+    }
+}
+

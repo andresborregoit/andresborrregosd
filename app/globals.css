@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -17,6 +18,11 @@
 }
 
 body {
+  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -25,9 +31,25 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 }
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color:orange !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+

@@ -1,0 +1,1073 @@
+.containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+  }
+  
+  .header {
+    width: 100%;
+    height: 70px;
+    background-color: hsl(221deg 100% 10%);;
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+    transition: all 0.3s ease;
+  }
+  
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 105px; /* Cambiar el ancho para que parezca un semicírculo */
+    height: 50px; /* Altura para semicírculo */
+    border-radius: 0 0 100px 100px; /* Hacerlo semicírculo */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .header:hover {
+    color: #fafafa; /* Cambia el color del texto */
+    transition: all 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; /* Volver a ancho completo */
+    height: 70px; /* Altura original */
+    border-radius: 0px 0px 70px 70px; /* Volver a la forma original   ESTE HEADER . HOVER NO ESTA AÑADIDO AL MEDIAQUERYS*/ 
+  }
+  
+  .divHeader {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listaul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 75px;
+    width: 70%;
+    
+  }
+
+  .pheader{
+    font-size: 32px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+  }
+  .linone{
+
+  }
+  .pepeloco {
+    display: none;
+    font-size: 24px;
+    color: white;
+  }
+  .borderli{
+   
+  
+  
+  }
+
+  .btop{}
+  
+
+
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+
+/* Estilos para teléfonos pequeños (por ejemplo, iPhone SE) */
+
+
+
+
+/* Estilos para pantallas medianas de escritorio */
+@media only screen and (max-width: 1440px) {
+  /* Estilos para pantallas medianas de escritorio */
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+  }
+  
+  .header {
+    width: 100%;
+    height: 70px;
+    background-color: hsl(221deg 100% 10%);
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+    transition: all 0.3s ease;
+  }
+  
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 105px; /* Cambiar el ancho para que parezca un semicírculo */
+    height: 50px; /* Altura para semicírculo */
+    border-radius: 0 0 100px 100px; /* Hacerlo semicírculo */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .header:hover {
+    color: #fafafa; /* Cambia el color del texto */
+    transition: all 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; /* Volver a ancho completo */
+    height: 70px; /* Altura original */
+    border-radius: 0px 0px 70px 70px; /* Volver a la forma original   ESTE HEADER . HOVER NO ESTA AÑADIDO AL MEDIAQUERYS*/ 
+  }
+  
+  .divHeader {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listaul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 75px;
+    width: 70%;
+    
+  }
+
+  .pheader{
+    font-size: 32px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+  }
+  .linone{
+
+  }
+  .pepeloco {
+    display: none;
+    font-size: 24px;
+    color: white;
+  }
+  .borderli{
+   
+  
+  
+  }
+
+  .btop{}
+  
+
+}
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1280px) {
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+  }
+  
+  .header {
+    width: 100%;
+    height: 70px;
+    background-color: hsl(221deg 100% 10%);
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+    transition: all 0.3s ease;
+  }
+  
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 105px; /* Cambiar el ancho para que parezca un semicírculo */
+    height: 50px; /* Altura para semicírculo */
+    border-radius: 0 0 100px 100px; /* Hacerlo semicírculo */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .header:hover {
+    color: #fafafa; /* Cambia el color del texto */
+    transition: all 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; /* Volver a ancho completo */
+    height: 70px; /* Altura original */
+    border-radius: 0px 0px 70px 70px; /* Volver a la forma original   ESTE HEADER . HOVER NO ESTA AÑADIDO AL MEDIAQUERYS*/ 
+  }
+  
+  .divHeader {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listaul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 75px;
+    width: 85%;
+    
+  }
+  
+  .pheader{
+    font-size: 32px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+  }
+  .linone{
+  
+  }
+  .pepeloco {
+    display: none;
+    font-size: 24px;
+    color: white;
+  }
+  .borderli{
+   
+  
+  
+  }
+  
+  .btop{}
+  
+  
+  }
+
+/* Estilos para tabletas medianas (por ejemplo, iPad Air) */
+@media only screen and (max-width: 1024px) {
+  /* Estilos para tabletas medianas */
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+  }
+  
+  .header {
+    width: 100%;
+    height: 70px;
+    background-color: hsl(221deg 100% 10%);
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+    transition: all 0.3s ease;
+  }
+  
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 105px; /* Cambiar el ancho para que parezca un semicírculo */
+    height: 50px; /* Altura para semicírculo */
+    border-radius: 0 0 100px 100px; /* Hacerlo semicírculo */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .header:hover {
+    color: #fafafa; /* Cambia el color del texto */
+    transition: all 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; /* Volver a ancho completo */
+    height: 70px; /* Altura original */
+    border-radius: 0px 0px 70px 70px; /* Volver a la forma original   ESTE HEADER . HOVER NO ESTA AÑADIDO AL MEDIAQUERYS*/ 
+  }
+  
+  .divHeader {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listaul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 75px;
+    width: 85%;
+    
+  }
+  
+  .pheader{
+    font-size: 32px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+  }
+  .linone{
+  
+  }
+  .pepeloco {
+    display: none;
+    font-size: 24px;
+    color: white;
+  }
+  .borderli{
+   
+  
+  
+  }
+  
+  .btop{}
+  
+
+}
+
+@media only screen and (max-width: 900px) {
+  /* Estilos para tabletas medianas */
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+  }
+  
+  .header {
+    width: 100%;
+    height: 70px;
+    background-color: hsl(221deg 100% 10%);
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+    transition: all 0.3s ease;
+  }
+  
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 105px; /* Cambiar el ancho para que parezca un semicírculo */
+    height: 50px; /* Altura para semicírculo */
+    border-radius: 0 0 100px 100px; /* Hacerlo semicírculo */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .header:hover {
+    color: #fafafa; /* Cambia el color del texto */
+    transition: all 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; /* Volver a ancho completo */
+    height: 70px; /* Altura original */
+    border-radius: 0px 0px 70px 70px; /* Volver a la forma original   ESTE HEADER . HOVER NO ESTA AÑADIDO AL MEDIAQUERYS*/ 
+  }
+  
+  .divHeader {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .listaul {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    height: 75px;
+    width: 85%;
+    
+  }
+  
+  .pheader{
+    font-size: 32px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+  }
+  .linone{
+  
+  }
+  .pepeloco {
+    display: none;
+    font-size: 24px;
+    color: white;
+  }
+  .borderli{
+   
+  
+  
+  }
+  
+  .btop{}
+  
+
+}
+
+@media only screen and (max-width: 768px) {
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .header {
+    width: 100%;
+    height: 50px;
+   background: hsl(240deg 100% 9.02);
+    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    position: fixed !important;
+    z-index: 50;
+    transition: all 0.3s ease;
+    border-radius: 0px;
+    display: flex;
+        align-items: center;
+        border-radius: 0;
+  }
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 100%; 
+    height: 50px; 
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .header:hover {
+    border-radius: 0px;
+    height: 50px;
+    /* muy de chad esto de dejar vacios  */
+
+    
+  }
+/* No aplicar border-radius si el menú está abierto */
+.menuOpen .headerScrolled {
+  border-radius: 0;
+}
+
+  /* .linone{
+    display: none;
+  } */
+  .pepeloco {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+  }
+  .pepelocohijo {
+    margin-right: 15px;
+
+    font-size: 28px;
+ 
+  }
+  .menuClosed {
+    display: none;
+    gap: 0px !important;
+  }
+
+
+
+  .menuOpen {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    height: 341px;
+    background-color: hsl(240deg 100% 9.02);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(0);
+    border-radius: 0px;
+    z-index: 40;
+  }
+
+  .menuOpen .listaul {
+    gap: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    top: 50px;
+  }
+ 
+
+  .pheader{
+    font-size: 17px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+    display: none;
+  }
+  .menuOpen .borderli{
+  border-bottom: 1px solid #fafafa;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+
+
+}
+
+.menuOpen .btop{
+  border-top: 1px solid #fafafa;
+
+
+}
+
+
+}
+
+  /* Estilos para teléfonos grandes (por ejemplo, iPhone 6/7/8 Plus) */
+  @media only screen and (max-width: 480px) {
+    .containerheader {
+      z-index: 50;
+      position: fixed;
+      display: flex;
+      justify-content: center;
+      width: 100%;
+    }
+    
+    .header {
+      width: 100%;
+      height: 50px;
+     background: hsl(240deg 100% 9.02);
+     background-color: hsl(221deg 100% 10%);      opacity: 95%;
+      display: flex;
+      align-items: baseline;
+      justify-content: center;
+      position: fixed !important;
+      z-index: 50;
+      transition: all 0.3s ease;
+      border-radius: 0px;
+      display: flex;
+          align-items: center;
+          border-radius: 0;
+    }
+    .headerScrolled {
+      background: hsl(240deg 100% 9.02);
+      width: 100%; 
+      height: 50px; 
+      justify-content: center;
+      align-items: center;
+      padding: 0;
+    }
+    .header:hover {
+      border-radius: 0px;
+      height: 50px;
+      /* muy de chad esto de dejar vacios  */
+  
+      
+    }
+  /* No aplicar border-radius si el menú está abierto */
+  .menuOpen .headerScrolled {
+    border-radius: 0;
+  }
+  
+    /* .linone{
+      display: none;
+    } */
+    .pepeloco {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      height: 100%;
+    }
+    .pepelocohijo {
+      margin-right: 15px;
+  
+      font-size: 26px;
+   
+    }
+    .menuClosed {
+      display: none;
+      gap: 0px !important;
+    }
+  
+  
+  
+    .menuOpen {
+      position: absolute;
+      top: 50px;
+      right: 0;
+      width: 100%;
+      height: 341px;
+      background-color: hsl(240deg 100% 9.02);
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.3s ease-in-out;
+      transform: translateX(0);
+      border-radius: 0px;
+      z-index: 40;
+    }
+  
+    .menuOpen .listaul {
+      gap: 0px !important;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+      position: absolute;
+      top: 50px;
+    }
+   
+  
+    .pheader{
+      font-size: 15px;
+      font-weight: 300;
+    }
+    
+    .menuIcon {
+      font-size: 24px;
+      color: white;
+      display: none;
+
+    }
+    .menuOpen .borderli{
+    border-bottom: 1px solid #fafafa;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+  
+  
+  }
+  
+  .menuOpen .btop{
+    border-top: 1px solid #fafafa;
+  
+  
+  }
+  
+  }
+
+/* Estilos para teléfonos grandes (por ejemplo, iPhone 6/7/8 Plus) */
+@media only screen and (max-width: 414px) {
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .header {
+    width: 100%;
+    height: 50px;
+   background: hsl(240deg 100% 9.02);
+   background-color: hsl(221deg 100% 10%);    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    position: fixed !important;
+    z-index: 50;
+    transition: all 0.3s ease;
+    border-radius: 0px;
+    display: flex;
+        align-items: center;
+        border-radius: 0;
+  }
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 100%; 
+    height: 50px; 
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .header:hover {
+    border-radius: 0px;
+    height: 50px;
+    /* muy de chad esto de dejar vacios  */
+
+    
+  }
+/* No aplicar border-radius si el menú está abierto */
+.menuOpen .headerScrolled {
+  border-radius: 0;
+}
+
+  /* .linone{
+    display: none;
+  } */
+  .pepeloco {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+  }
+  .pepelocohijo {
+    margin-right: 15px;
+
+    font-size: 26px;
+ 
+  }
+  .menuClosed {
+    display: none;
+    gap: 0px !important;
+  }
+
+
+
+  .menuOpen {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    height: 341px;
+    background-color: hsl(240deg 100% 9.02);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(0);
+    border-radius: 0px;
+    z-index: 40;
+  }
+
+  .menuOpen .listaul {
+    gap: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    top: 50px;
+  }
+ 
+
+  .pheader{
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+    display: none;
+
+  }
+  .menuOpen .borderli{
+  border-bottom: 1px solid #fafafa;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+
+
+}
+
+.menuOpen .btop{
+  border-top: 1px solid #fafafa;
+
+
+}
+
+}
+
+/* Estilos para teléfonos estándar (por ejemplo, iPhone 6/7/8) */
+@media only screen and (max-width: 375px) {
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .header {
+    width: 100%;
+    height: 50px;
+   background: hsl(240deg 100% 9.02);
+   background-color: hsl(221deg 100% 10%);    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    position: fixed !important;
+    z-index: 50;
+    transition: all 0.3s ease;
+    border-radius: 0px;
+    display: flex;
+        align-items: center;
+        border-radius: 0;
+  }
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 100%; 
+    height: 50px; 
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .header:hover {
+    border-radius: 0px;
+    height: 50px;
+    /* muy de chad esto de dejar vacios  */
+
+    
+  }
+/* No aplicar border-radius si el menú está abierto */
+.menuOpen .headerScrolled {
+  border-radius: 0;
+}
+
+  /* .linone{
+    display: none;
+  } */
+  .pepeloco {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+  }
+  .pepelocohijo {
+    margin-right: 15px;
+
+    font-size: 26px;
+ 
+  }
+  .menuClosed {
+    display: none;
+    gap: 0px !important;
+  }
+
+
+
+  .menuOpen {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    height: 341px;
+    background-color: hsl(240deg 100% 9.02);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(0);
+    border-radius: 0px;
+    z-index: 40;
+  }
+
+  .menuOpen .listaul {
+    gap: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    top: 50px;
+  }
+ 
+
+  .pheader{
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+    display: none;
+
+  }
+  .menuOpen .borderli{
+  border-bottom: 1px solid #fafafa;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+
+
+}
+
+.menuOpen .btop{
+  border-top: 1px solid #fafafa;
+
+}
+}
+
+
+@media only screen and (max-width: 320px) {
+  /* Estilos para teléfonos pequeños */
+  .containerheader {
+    z-index: 50;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .header {
+    width: 100%;
+    height: 50px;
+   background: hsl(240deg 100% 9.02);
+   background-color: hsl(221deg 100% 10%);    opacity: 95%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    position: fixed !important;
+    z-index: 50;
+    transition: all 0.3s ease;
+    border-radius: 0px;
+    display: flex;
+        align-items: center;
+        border-radius: 0;
+  }
+  .headerScrolled {
+    background: hsl(240deg 100% 9.02);
+    width: 100%; 
+    height: 50px; 
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .header:hover {
+    border-radius: 0px;
+    height: 50px;
+    /* muy de chad esto de dejar vacios  */
+
+    
+  }
+/* No aplicar border-radius si el menú está abierto */
+.menuOpen .headerScrolled {
+  border-radius: 0;
+}
+
+  /* .linone{
+    display: none;
+  } */
+  .pepeloco {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+  }
+  .pepelocohijo {
+    margin-right: 15px;
+
+    font-size: 26px;
+ 
+  }
+  .menuClosed {
+    display: none;
+    gap: 0px !important;
+  }
+
+
+
+  .menuOpen {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 100%;
+    height: 341px;
+    background-color: hsl(240deg 100% 9.02);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(0);
+    border-radius: 0px;
+    z-index: 40;
+  }
+
+  .menuOpen .listaul {
+    gap: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    position: absolute;
+    top: 50px;
+  }
+ 
+
+  .pheader{
+    font-size: 15px;
+    font-weight: 300;
+  }
+  
+  .menuIcon {
+    font-size: 24px;
+    color: white;
+    display: none;
+
+  }
+  .menuOpen .borderli{
+  border-bottom: 1px solid #fafafa;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+
+
+}
+
+.menuOpen .btop{
+  border-top: 1px solid #fafafa;
+
+}
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

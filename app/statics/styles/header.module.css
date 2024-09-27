@@ -1,0 +1,23 @@
+.divHeader{
+    width: 100%;
+    height: 70px;
+    background-color: #2e2e2e;
+    opacity: 75%;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    border-radius: 0px 0px 70px 70px;
+    position: fixed;
+    z-index: 50;
+
+}
+
+.listaul{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    height: 75px;
+    width: 80%;
+    gap: 32px;
+    
+}

@@ -1,0 +1,1788 @@
+.tuti{
+    background-image: url('../images/noisy-gradients.svg');
+    background-size: cover;
+}
+.containerTotal{
+    width: 100vw;
+    height: 2500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerHero{
+    width: 100%;
+    height: 750px;
+    display: flex;
+
+}
+
+.containertextohero{
+    padding-left: 75px;
+}
+.texto{
+    line-height: 125px;
+    font-size: 100px;
+}
+
+.textoHero{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.compuOrnamento{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.containerServicios{
+    width: 80%;
+}
+.servicioTexto{
+    font-size: 80px;
+}
+.carrousel{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(240, 255, 255, 0.092);
+    display: flex;
+    gap: 40px;
+}
+.containerSobremi{
+    width: 80%;
+    height: 1000px;
+}
+
+.textalign{
+    text-align: end;
+
+}
+
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1190px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 100px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    
+    
+    }
+
+    /* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+
+/* Estilos para teléfonos pequeños (por ejemplo) */
+/* Estilos para pantallas medianas de escritorio */
+/* Estilos para pantallas medianas de escritorio */
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 2000px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 89px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 74%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+        
+        
+ }
+@media only screen and (max-width: 1940px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 89px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 74%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    /* Estilos por definir */
+}
+
+/* Estilos para pantallas medianas de escritorio */
+@media only screen and (max-width: 1740px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 89px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 74%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+}
+
+/* Estilos para pantallas medianas de escritorio */
+@media only screen and (max-width: 1440px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 89px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 74%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    /* Estilos por definir */
+}
+
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1380px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 95px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 74%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    
+   
+
+    
+}
+ 
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1200px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 125px;
+        font-size: 85px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 66%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    /* Estilos por definir */
+}
+
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 1090px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 750px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 115px;
+        font-size: 80px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 64%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+}
+@media only screen and (max-width: 1044px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 700px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 110px;
+        font-size: 76px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 67%;
+    }
+    .servicioTexto{
+        font-size: 80px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    
+}
+
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 1009px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 700px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 110px;
+        font-size: 74px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 66%;
+    }
+    .servicioTexto{
+        font-size: 75px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    
+
+}
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 964px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 700px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 90px;
+        font-size: 72px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 73%;
+    }
+    .servicioTexto{
+        font-size: 70px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    
+}
+
+@media only screen and (max-width: 940px) 
+{    .tuti{
+    background-image: url('../images/noisy-gradients.svg');
+    background-size: cover;
+}
+.containerTotal{
+    width: 100vw;
+    height: 2775px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerHero{
+    width: 100%;
+    height: 700px;
+    display: flex;
+
+}
+
+.containertextohero{
+    padding-left: 75px;
+}
+.texto{
+    line-height: 90px;
+    font-size: 66px;
+}
+
+.textoHero{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.compuOrnamento{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.containerServicios{
+    width: 73%;
+}
+.servicioTexto{
+    font-size: 70px;
+}
+.carrousel{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(240, 255, 255, 0.092);
+    display: flex;
+    gap: 40px;
+}
+.containerSobremi{
+    width: 80%;
+    height: 1000px;
+}.textalign{
+    text-align: end;
+
+}
+
+}
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 900px) {   
+    .tuti{
+    background-image: url('../images/noisy-gradients.svg');
+    background-size: cover;
+}
+.containerTotal{
+    width: 100vw;
+    height: 2775px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.containerHero{
+    width: 100%;
+    height: 650px;
+    display: flex;
+
+}
+
+.containertextohero{
+    padding-left: 75px;
+}
+.texto{
+    line-height: 90px;
+    font-size: 62px;
+}
+
+.textoHero{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.compuOrnamento{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.containerServicios{
+    width: 72%;
+}
+.servicioTexto{
+    font-size: 70px;
+}
+.carrousel{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(240, 255, 255, 0.092);
+    display: flex;
+    gap: 40px;
+}
+.containerSobremi{
+    width: 80%;
+    height: 1000px;
+}
+.textalign{
+    text-align: end;
+
+}
+
+}
+
+@media only screen and (max-width: 840px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 600px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 80px;
+        font-size: 54px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 72%;
+    }
+    .servicioTexto{
+        font-size: 65px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: end;
+    
+    }
+    
+    
+    }
+    
+/* Estilos para pantallas pequeñas y móviles */
+@media only screen and (max-width: 768px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 520px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 48px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 72%;
+    }
+    .servicioTexto{
+        font-size: 60px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 520px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 44px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 60px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 625px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 55px;
+        font-size: 38px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 60px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }
+    .textalign{
+        text-align: center;
+    
+    }
+}
+@media only screen and (max-width: 624px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 75px;
+    }
+    .texto{
+        line-height: 55px;
+        font-size: 38px;
+    }
+    
+    .textoHero{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 60px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 50px;
+        width: 100%;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 68px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 55px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 525px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 60px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 50px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 55px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 45px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+
+@media only screen and (max-width: 430px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 75px;
+        font-size: 48px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 45px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 60px;
+        font-size: 40px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 40px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+    /* Estilos para pantallas de hasta 375px */
+}
+
+@media only screen and (max-width: 320px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 50px;
+        font-size: 32px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 35px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 500px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 50px;
+        font-size: 30px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 30px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+@media only screen and (max-width: 250px) {
+    .tuti{
+        background-image: url('../images/noisy-gradients.svg');
+        background-size: cover;
+    }
+    .containerTotal{
+        width: 100vw;
+        height: 2775px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .containerHero{
+        width: 100%;
+        height: 450px;
+        display: flex;
+    
+    }
+    
+    .containertextohero{
+        padding-left: 0px;
+        width: 82%;
+        display: flex;
+        justify-content: center;
+    }
+    .texto{
+        line-height: 42px;
+        font-size: 26px;
+    }
+    
+    .textoHero{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .compuOrnamento{
+        width: 40%;
+        height: 100%;
+        display: none;
+    }
+    .containerServicios{
+        width: 80%;
+    }
+    .servicioTexto{
+        font-size: 25px;
+    margin-bottom: 10px;
+    }
+    .carrousel{
+        width: 100%;
+        height: 600px;
+        background-color: rgba(240, 255, 255, 0.092);
+        display: flex;
+        gap: 40px;
+    }
+    .containerSobremi{
+        width: 80%;
+        height: 1000px;
+    }  .textalign{
+        text-align: center;
+    
+    }
+}
+
+
+
+
+   
+        
+        
+        
+    

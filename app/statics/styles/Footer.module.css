@@ -1,0 +1,1755 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(14, 14, 82);
+    background-image: url('../images/fondofooter.svg');
+    display: flex;
+    justify-content: center;
+}
+.estructura{
+    width: 80%;
+}
+.divh1{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 110px;
+}
+
+.subcontainer{
+    width: 100%;
+    height: 500px;
+    /* background-color: rgba(88, 188, 188, 0.182); */
+    display: flex;
+    gap: 120px;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.div2{}
+
+.contactame{
+    font-size: 72px;
+}
+
+.f30{
+    font-size: 26px;
+}
+
+.f70{
+    font-size: 65px;
+}
+
+.pfinal1{
+    font-size: 20px;
+    font-weight:400;
+
+}
+.pfinal2{
+    font-size: 15px;
+    font-weight:300;
+}
+
+.padtext{
+    padding-top: 15px;
+    padding-left: 13px;
+}
+.padleft{
+    padding-left: 13px;
+}
+
+.rsnone{
+    resize: none;
+}
+
+.containerfinal{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 180px;
+    gap: 5px;}
+
+
+
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+/* MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS MEDIA QUERYS */
+
+
+
+
+
+/* Estilos para pantallas medianas de escritorio */
+@media only screen and (max-width: 1440px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+    .contactame{
+        font-size: 68px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+    .f30{
+        font-size: 24px;
+    }
+    
+    .f70{
+        font-size: 63px;
+    }
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+   
+}
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1280px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 66px;
+    }
+
+    .f30{
+        font-size: 22px;
+    }
+    
+    .f70{
+        font-size: 61px;
+    }
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+    
+
+   
+}
+
+@media only screen and (max-width: 1180px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 64px;
+    }
+
+    .f30{
+        font-size: 20px;
+    }
+    
+    .f70{
+        font-size: 59px;
+    }
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+    
+
+   
+}
+
+/* Estilos para pantallas pequeñas de escritorio */
+@media only screen and (max-width: 1100px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 56px;
+    }
+
+    .f30{
+        font-size: 18px;
+    }
+    
+    .f70{
+        font-size: 54px;
+    }
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+    
+
+    
+}
+
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 1024px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 85%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 56px;
+    }
+
+    .f30{
+        font-size: 18px;
+    }
+    
+    .f70{
+        font-size: 54px;
+    }
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+}
+
+@media only screen and (max-width: 950px) {
+    .container{
+        width: 100%;
+        height: 1000px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/fondofooter.svg');
+        display: flex;
+        justify-content: center;
+    }
+    .estructura{
+        width: 90%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 110px;
+    }
+
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        gap: 120px;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 56px;
+    }
+
+    .f30{
+        font-size: 18px;
+    }
+    
+    .f70{
+        font-size: 54px;
+    }
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+
+    
+    .padtext{
+        padding-top: 15px;
+        padding-left: 13px;
+    }
+    .padleft{
+        padding-left: 13px;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;}
+}
+
+/* Estilos para tabletas medianas */
+@media only screen and (max-width: 900px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 56px;
+    }
+
+    .f30{
+        font-size: 18px;
+    }
+    
+    .f70{
+        font-size: 54px;
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+
+@media only screen and (max-width: 868px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 56px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 50px;
+        padding-top: 50px;
+        text-align: center;
+        line-height: 65px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 50%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 50px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 45px;
+        padding-top: 50px;
+        text-align: center;
+        line-height: 55px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 55%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 50px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 45px;
+        padding-top: 50px;
+        text-align: center;
+        line-height: 55px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 50px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 45px;
+        padding-top: 50px;
+        text-align: center;
+        line-height: 55px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 65%;
+    }
+    .div2{}
+
+    .contactame{
+        font-size: 46px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 42px;
+        padding-top: 40px;
+        text-align: center;
+        line-height: 50px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 40px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 36px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 42px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 36px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 32px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 38px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+
+@media only screen and (max-width: 375px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 34px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 28px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 34px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 20px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 15px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 32px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 26px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 32px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 12px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 10px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .container{
+        width: 100%;
+        height: 1040px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 26px;
+    }
+
+    .f30{
+        font-size: 16px;
+    }
+    
+    .f70{
+        font-size: 22px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 28px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 275px;
+
+    }
+    
+    .pfinal1{
+        font-size: 12px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 10px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 285px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 22px;
+    }
+
+    .f30{
+        font-size: 14px;
+    }
+    
+    .f70{
+        font-size: 18px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 22px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 11px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 9px;
+        font-weight:300;
+    }
+}
+
+@media only screen and (max-width: 250px) {
+    .container{
+        width: 100%;
+        height: 1240px;
+        background-color: rgb(14, 14, 82);
+        background-image: url('../images/bgestrelladogodines.svg');
+        display: flex;
+        justify-content: center;
+    }
+    
+    
+    .estructura{
+        width: 80%;
+    }
+    .divh1{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    .subcontainer{
+        width: 100%;
+        height: 500px;
+        /* background-color: rgba(88, 188, 188, 0.182); */
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+    .div1{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .div2{
+        width: 100%;
+    }
+
+    .contactame{
+        font-size: 22px;
+    }
+
+    .f30{
+        font-size: 14px;
+    }
+    
+    .f70{
+        font-size: 18px;
+        padding-top: 32px;
+        text-align: center;
+        line-height: 22px;
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    .padtext{
+        padding-top: 20px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .padleft{
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    .rsnone{
+        resize: none;
+    }
+    
+    .containerfinal{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 180px;
+        gap: 5px;
+        height: 650px;
+
+    }
+    
+    .pfinal1{
+        font-size: 10px;
+        font-weight:400;
+    
+    }
+    .pfinal2{
+        font-size: 8px;
+        font-weight:300;
+    }
+}
