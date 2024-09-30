@@ -32,7 +32,9 @@ const enviarEmail = async ({ email, nombre, edad }) => {
         "To": [
           {
             "Email": "andresborregoit@gmail.com",
-            "Name": nombre
+            "Name": nombre,
+            
+
           },
           {
             "Email": "passenger2@mailjet.com",
@@ -53,8 +55,14 @@ const enviarEmail = async ({ email, nombre, edad }) => {
         ],
         "Subject": nombre,
         "TextPart": email,
-        "HTMLPart": edad,
-      }
+        "HTMLPart": `
+          <h3>Nuevo formulario recibido</h3>
+          <ul>
+            <li>Nombre: ${nombre}</li>
+            <li>Email: ${email}</li>
+            <li>Edad: ${edad}</li>
+          </ul>
+        `,}
     ]
   });
 
