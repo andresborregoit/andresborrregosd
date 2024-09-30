@@ -60,7 +60,7 @@ const enviarEmail = async ({ email, nombre, edad }) => {
           <ul>
             <li>Nombre: ${nombre}</li>
             <li>Email: ${email}</li>
-            <li>Edad: ${edad}</li>
+            <li>Mensaje: ${edad}</li>
           </ul>
         `,}
     ]
