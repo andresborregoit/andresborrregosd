@@ -1180,17 +1180,18 @@
         flex-direction: column;
         margin-top: 180px;
         gap: 5px;
-        height: 650px;
+        height: 400px;
 
     }
     
     .pfinal1{
-        font-size: 20px;
+        font-size: 14px;
         font-weight:400;
+        margin-top: 380px;
     
     }
     .pfinal2{
-        font-size: 15px;
+        font-size: 12px;
         font-weight:300;
     }
 }
@@ -1273,17 +1274,18 @@
         flex-direction: column;
         margin-top: 180px;
         gap: 5px;
-        height: 650px;
+        height: 400px;
 
     }
     
     .pfinal1{
-        font-size: 20px;
+        font-size: 14px;
         font-weight:400;
+        margin-top: 380px;
     
     }
     .pfinal2{
-        font-size: 15px;
+        font-size: 12px;
         font-weight:300;
     }
 }
@@ -1367,17 +1369,18 @@
         flex-direction: column;
         margin-top: 180px;
         gap: 5px;
-        height: 650px;
+        height: 400px;
 
     }
     
     .pfinal1{
-        font-size: 20px;
+        font-size: 14px;
         font-weight:400;
+        margin-top: 380px;
     
     }
     .pfinal2{
-        font-size: 15px;
+        font-size: 12px;
         font-weight:300;
     }
 }
@@ -1460,17 +1463,18 @@
         flex-direction: column;
         margin-top: 180px;
         gap: 5px;
-        height: 650px;
+        height: 400px;
 
     }
     
     .pfinal1{
-        font-size: 12px;
+        font-size: 14px;
         font-weight:400;
+        margin-top: 380px;
     
     }
     .pfinal2{
-        font-size: 10px;
+        font-size: 12px;
         font-weight:300;
     }
 }
@@ -1478,7 +1482,7 @@
 @media only screen and (max-width: 320px) {
     .container{
         width: 100%;
-        height: 1040px;
+        height: 1100px;
         background-color: rgb(14, 14, 82);
         background-image: url('../images/bgestrelladogodines.svg');
         display: flex;
@@ -1565,6 +1569,7 @@
     .pfinal2{
         font-size: 10px;
         font-weight:300;
+        margin-bottom: 100px;
     }
 }
 

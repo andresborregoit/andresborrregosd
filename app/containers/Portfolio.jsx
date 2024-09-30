@@ -33,16 +33,7 @@ export default function Hero() {
     <Slidertestimonio></Slidertestimonio>
 
 
-
-    
-
-
     </div>
-
-
-
-
-
 
 
 </div>
