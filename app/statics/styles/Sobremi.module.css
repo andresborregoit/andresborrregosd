@@ -301,8 +301,8 @@
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 370px;
+        width: 370px;
     }
 }
 
@@ -345,8 +345,8 @@
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 370px;
+        width: 370px;
     }
 }
 
@@ -389,8 +389,8 @@
 }
 .imgyo{
     border-radius: 250px;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
 }
 }
 
@@ -433,8 +433,8 @@
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 340px;
+        width: 340px;
     }
 }
 
@@ -476,8 +476,8 @@
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 315px;
+        width: 315px;
     }
 }
 
@@ -516,7 +516,7 @@
         font-size: 23px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -563,7 +563,7 @@
         font-size: 23px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -611,7 +611,7 @@
         font-size: 23px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -659,55 +659,7 @@
         font-size: 23px;
     }
     .sobremiImg{
-        width: 40%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    .imgyo{
-        border-radius: 250px;
-        height: 400px;
-        width: 400px;
-    }
-}
-
-/* Estilos para pantallas pequeñas y móviles */
-@media only screen and (max-width: 768px) {
-    .serviciosTitulo{
-        margin-top: 200px;
-    }
-    
-    .sobremiTexto{
-        font-size: 60px;
-        text-align: center;
-
-    }
-    
-    .sobremidiv{
         width: 100%;
-        height: 1080px;
-        border-radius: 50px;
-        display: flex;
-        background: rgba(255, 255, 255, 0.26);
-        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-        backdrop-filter: blur(3.4px);
-        -webkit-backdrop-filter: blur(3.4px); border: 1px solid rgba(255, 255, 255, 0.06);
-        flex-direction: column;
-        align-items: center;
-    }
-    .sobremiParrafo{
-        width: 88%;
-        height: 100%;
-        padding: 42px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-evenly;
-    }
-    .sobremiP{
-        font-size: 21px;
-    }
-    .sobremiImg{
-        width: 40%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -718,6 +670,7 @@
         width: 400px;
     }
 }
+
 
 
 @media only screen and (max-width: 768px) {
@@ -755,7 +708,7 @@
         font-size: 21px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -802,15 +755,15 @@
         font-size: 20px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
 }
 
@@ -850,15 +803,15 @@
         font-size: 19px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
 }
 
@@ -897,15 +850,15 @@
         font-size: 19px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 350px;
+        width: 350px;
     }
 }
 
@@ -945,15 +898,15 @@
         font-size: 18px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 320px;
+        width: 320px;
     }
 }
 
@@ -994,15 +947,15 @@
         font-size: 17px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 320px;
+        width: 320px;
     }
 }
 
@@ -1043,15 +996,15 @@
         font-size: 17px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1091,15 +1044,15 @@
         font-size: 17px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1138,15 +1091,15 @@
         font-size: 17px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1185,15 +1138,15 @@
         font-size: 16px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1232,15 +1185,15 @@
         font-size: 14px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1279,15 +1232,15 @@
         font-size: 13px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 270px;
+        width: 270px;
     }
 }
 
@@ -1326,15 +1279,15 @@
         font-size: 13px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 200px;
+        width: 200px;
     }
 }
 
@@ -1373,15 +1326,15 @@
         font-size: 12px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 170px;
+        width: 170px;
     }
 }
 
@@ -1420,15 +1373,15 @@
         font-size: 11px;
     }
     .sobremiImg{
-        width: 40%;
+        width: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgyo{
         border-radius: 250px;
-        height: 400px;
-        width: 400px;
+        height: 150px;
+        width: 150px;
     }
 }
 
