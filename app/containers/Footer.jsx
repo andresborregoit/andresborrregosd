@@ -18,7 +18,13 @@ export default function Footer() {
                 <h2 className={`${LexendZ.className} ${css.f70}`}>Andrés Borrego</h2>
                 <h4 className={`${LexendD.className} ${css.f30} ${css.padtext}`}>Completa el formulario de contacto y nos estaremos comunicando contigo a la brevedad.</h4>
                 <h4 className={`${LexendD.className} ${css.f30} ${css.padtext}`}>andresborregoit@gmail.com</h4>
-                <h4 className={`${LexendD.className} ${css.f30} ${css.padleft}`}>+54 9 2314-570388</h4>
+                <h4 className={`${LexendD.className} ${css.f30} ${css.padleft}`}>
+                <a 
+          href="https://wa.me/5492314570388?text=%C2%A1Hola!%20Me%20interesan%20tus%20soluciones%20digitales%20y%20me%20gustar%C3%ADa%20saber%20c%C3%B3mo%20podr%C3%ADas%20ayudarme."
+          target="_blank" 
+          rel="noopener noreferrer"
+          className={`${LexendD.className} ${css.btnCardP}`}>+54 9 2314-570388</a>
+                </h4>
             </div>
             <div className={`${css.div2}`}>
                 <Form></Form>

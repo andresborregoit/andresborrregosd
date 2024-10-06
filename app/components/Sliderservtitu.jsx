@@ -58,7 +58,13 @@ export default function Sliderservtitu() {
           <p className={` ${LexendD.className} ${css.tituloCard} `}>{d.name}</p>
           <p className={` ${LexendD.className} ${css.infoCard} `}>{d.review}</p>
           <div className={`${css.containerbtn} `}>
-          <div className={` ${LexendD.className} ${css.btnCardDiv} `}><p className={` ${LexendD.className} ${css.btnCardP} `}>Escribime</p></div>
+          <div className={` ${LexendD.className} ${css.btnCardDiv} `}>
+          <a 
+          href="https://wa.me/5492314570388?text=%C2%A1Hola!%20Me%20interesan%20tus%20soluciones%20digitales%20y%20me%20gustar%C3%ADa%20saber%20c%C3%B3mo%20podr%C3%ADas%20ayudarme."
+          target="_blank" 
+          rel="noopener noreferrer"
+          className={`${LexendD.className} ${css.btnCardP}`}>Escribime</a>
+          </div>
         </div>
         </div>
        
@@ -77,7 +83,7 @@ const data = [
   {
     name: `QR`,
     img: `/students/John_Morgan.jpg`,
-    review: `Soluciones digitales en general, gestión de archivos, edición de documentos, conversión de formatos, y soporte técnico básico.`
+    review: `Generación y diseño de códigos QR para comercios, restaurantes , bares  y eventos.`
   },
   {
     name: `Flyers`,

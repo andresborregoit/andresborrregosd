@@ -14,6 +14,7 @@ import Sliderservtitu from "./components/Sliderservtitu";
 import Slidertestimonio from "./components/Slidertestimonio";
 import Header2 from "./components/Header2";
 import Sobremi from "./components/Sobremi";
+import WhatsAppButton from "./components/WhatsAppButton";
 
 
 
@@ -46,6 +47,7 @@ export default function RootLayout({ children }) {
         <Slider />
         <Portfolio />
         <Footer></Footer>
+        <WhatsAppButton></WhatsAppButton>
         {/* {children} */}
         
 
