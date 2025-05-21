@@ -19,7 +19,12 @@ export default function Hero() {
         <div id="portfolio" className={` ${css.divPortfolio}`}>
             <h2 className={`${LexendZ.className} ${css.miportfolio}`} >Mi portfolio aqui</h2>
         </div>
-        <div className={`${css.divBtn}`}><button className={`${css.btnPortfolio}`}><p className={`${css.btnp}`}>Ver Portfolio</p></button></div>
+        <div className={`${css.divBtn}`}>
+        <a href="https://v0-retro-terminal-portfolio-mauve.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <button className={`${css.btnPortfolio}`}>
+        <p className={`${css.btnp}`}>Ver Portfolio</p>
+    </button>
+  </a></div>
         <div className={`${css.divOrnamento}`}>
             <div className={`${css.ornamentoIzq}`}><Image src={orizq} className={`${css.imgyop}`}></Image>
             </div>
