@@ -145,27 +145,27 @@ const data = [
   {
     name: `Juan`,
     img: `/students/John_Morgan.jpg`,
-    review: `Soluciones digitales en general, gestión de archivos, edición de documentos, conversión de formatos, y soporte técnico básico.`
+    review: `Andrés es un gran profesional, gestiono y soluciono los problemas de mi web con solvencia.`
   },
   {
     name: `Mirta`,
     img: `/students/Ellie_Anderson.jpg`,
-    review: `Diseño y creación de flyers llamativos y efectivos para promocionar tus productos o servicios en las redes sociales.`
+    review: `El trabajo de andres cumplio mis expectativas, destaco su calidez y buen trato.`
   },
   {
     name: `Pablo`,
     img: `/students/Nia_Adebayo.jpg`,
-    review: `Diseño y desarrollo de páginas web personalizadas para todo tipo de negocios, institucionales, empresariales, e-comerce y mas.`
+    review: `Tuve problemas con mi hosting y Andrés lo resolvió todo. Excelente soporte técnico.`
   },
   {
     name: `Cecilia`,
     img: `/students/Rigo_Louie.jpg`,
-    review: `Plantillas de correo electrónico: Creación de plantillas de correo electrónico profesionales para boletines y campañas de marketing.`
+    review: `Gracias a Andrés mi tienda online funciona perfectamente. Siempre estuvo disponible para ayudarme cuando lo necesité..`
   },
   {
     name: `Jhonatan`,
     img: `/students/Mia_Williams.jpg`,
-    review: `Soluciones digitales en general, gestión de archivos, edición de documentos, conversión de formatos, y soporte técnico básico.`
+    review: `Actualizó mi sitio para que sea responsive y ahora se ve genial en celulares. Súper recomendado..`
   },
 
   
